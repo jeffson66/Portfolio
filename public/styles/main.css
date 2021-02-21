@@ -1,0 +1,23 @@
+#title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+figure, ul{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+ul{
+    font-size: 25px;
+    list-style-type: none;
+}
+#IMG{
+    text-align: center;
+}
+#bg{
+    background-image: url(https://wallpapercave.com/wp/wp5991790.jpg);
+    background-size: cover;
+}
+
+.card{
+   margin:auto;
+}
